@@ -1,0 +1,18 @@
+.footer{
+    text-align: center;
+}
+
+.footer > div >h1{
+    font-family: "Sacramento", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: xx-large;
+}
+.down{
+    display: flex;
+    gap: 200px;
+    color: gray;
+}
+.yellow{
+    color: rgb(241, 203, 12);
+}

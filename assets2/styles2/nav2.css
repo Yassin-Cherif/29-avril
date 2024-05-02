@@ -1,0 +1,13 @@
+.nav{
+    background-color: rgb(195, 166, 166);
+    border-radius: 50px;
+    padding-top: 1px;
+}
+.nav > h1{
+    display: flex;
+    justify-content: center;
+}
+.nav > img{
+    width: 30px;
+   text-align: right;
+}
